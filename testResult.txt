@@ -1,0 +1,7 @@
+je je PP1CSN0 1
+mange manger VMIP1S0 0.492683
+de de SP 0.999989
+la le DA0FS0 0.955121
+viande viande NCFS000 0.924242
+. . Fp 1
+
